@@ -1,4 +1,4 @@
-### Hi there, I'm Dilshan - GripEKA [youtube][website] 👋
+### Hi there, I'm Dilshan - GRIPEKA [youtube][website] 👋
 
 ## I'm a Student, Developer, and Youtuber!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="dilas's Github Stats" src="https://github-readme-stats.dilshan1997.vercel.app/api?username=dilahsn1997&show_icons=true&hide_border=true" />
+<img align="left" alt="dilas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dilahsn1997&show_icons=true&hide_border=true" />
 
 [website]: http://trendzmaster.epizy.com/
 [twitter]: https://twitter.com/DilshanMadhura3
