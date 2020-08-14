@@ -56,7 +56,7 @@
 
 ---
 
-<img align="left" alt="dilas's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="dilas's Github Stats" src="https://github-readme-stats.dilshan1997.vercel.app/api?username=dilahsn1997&show_icons=true&hide_border=true" />
 
 [website]: http://trendzmaster.epizy.com/
 [twitter]: https://twitter.com/DilshanMadhura3
