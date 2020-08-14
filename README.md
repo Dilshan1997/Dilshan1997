@@ -1,4 +1,4 @@
-### Hi there, I'm Dilshan - Grip EKA [youtube][website] 👋
+### Hi there, I'm Dilshan - GripEKA [youtube][website] 👋
 
 ## I'm a Student, Developer, and Youtuber!
 - 🔭 I’m currently working on a [VS Code Course][website]!
