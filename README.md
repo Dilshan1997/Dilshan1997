@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ලංකාවේ අපි ගාව තිබිය යුතුම Chrome extension 3  | blocking adds and dictionary and grammar corrector](https://www.youtube.com/watch?v=ABR24TpRDss)
 - [What is DHCP Server?(Sinhala)|with animation](https://www.youtube.com/watch?v=nugEBuF_nwI)
 - [How to create clone of any website | Easy way](https://www.youtube.com/watch?v=da6v34gxcno)
 - [How convert image to text image/text image html file a/plain text in 5 minutes.](https://www.youtube.com/watch?v=9Zi4MXye6CU)
 - [How to boost your computer-2](https://www.youtube.com/watch?v=RWIvkaLSFyY)
-- [How to boost the computer? -1| 100% guarantee (Sinhala)](https://www.youtube.com/watch?v=AUpKsmslB-w)
 <!-- YOUTUBE:END -->
 
 ---
