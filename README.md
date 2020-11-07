@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Speed Up Your Windows 10 Performance (best settings and easy way)](https://www.youtube.com/watch?v=D_vQDXffHNI)
 - [DNS Server | with animation#Sinhala](https://www.youtube.com/watch?v=z657mmre4U4)
 - [ලංකාවේ අපි ගාව තිබිය යුතුම Chrome extension 3  | blocking adds and dictionary and grammar corrector](https://www.youtube.com/watch?v=ABR24TpRDss)
 - [What is DHCP Server?(Sinhala)|with animation #dhcp server](https://www.youtube.com/watch?v=nugEBuF_nwI)
 - [How to create clone of any website | Easy way  #Clone_webite](https://www.youtube.com/watch?v=da6v34gxcno)
-- [How convert image to text image/text image html file a/plain text in 5 minutes.](https://www.youtube.com/watch?v=9Zi4MXye6CU)
 <!-- YOUTUBE:END -->
 
 ---
