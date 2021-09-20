@@ -33,11 +33,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [File Transfer Protocol (FTP|SFTP|TFTP)](https://www.youtube.com/watch?v=XUtB618egJ4)
 - [What is Proxy Server and How It Works?](https://www.youtube.com/watch?v=uebp6tj7nt4)
 - [යකෝ මූ..(Will smith)](https://www.youtube.com/watch?v=tgHSsG5xlRM)
 - [Lecturesල පව් නේ😂.. කියල කෙල කරගන්න අපි..😬](https://www.youtube.com/watch?v=wu4UIu2P0yM)
 - [කොරෝනා ආවානේ......😆😆🤪](https://www.youtube.com/watch?v=XZ6r7FsNM4o)
-- [එයා මාව අමතක කරන්නේ නෑ..😅🤣](https://www.youtube.com/watch?v=YqAUJWd9OCE)
 <!-- YOUTUBE:END -->
 
 ---
