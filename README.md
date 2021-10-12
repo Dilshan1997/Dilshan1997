@@ -46,7 +46,9 @@
 <!-- YOUTUBE:END -->
 
 ---
-
+### Latest Blog Posts
+<!--blog:START-->
+<!--blog:END-->
 
 
 ---
