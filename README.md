@@ -46,7 +46,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-### Latest Blog Posts
+### 🚀 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Cloud Computing  Essentials](https://t-dilshanmperera.medium.com/cloud-computing-essentials-40e8e6b659d3?source=rss-a6e7f3ee4ad0------2)
 - [Edge networking](https://t-dilshanmperera.medium.com/edge-networking-be1aee54c162?source=rss-a6e7f3ee4ad0------2)
@@ -55,7 +55,7 @@
 
 
 ---
-# StackOverflow Activity
+### 💫 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Dilshan Madhuranga for Ussing two classes instances](https://stackoverflow.com/questions/69476449/ussing-two-classes-instances/69478350#69478350)
 - [I want to get updated .pkl file data and using tkinter to display that live updates](https://stackoverflow.com/questions/69424107/i-want-to-get-updated-pkl-file-data-and-using-tkinter-to-display-that-live-upda)
