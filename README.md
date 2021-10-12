@@ -1,7 +1,6 @@
 ### Hi there, I'm Dilshan - GRIPEKA [youtube][website] 👋
 
 ## I'm a Student, Developer, and Youtuber!
-- 🔭 I’m currently working adt [affiliate market][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
