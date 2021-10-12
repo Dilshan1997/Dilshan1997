@@ -47,8 +47,8 @@
 
 ---
 ### Latest Blog Posts
-<!--blog:START-->
-<!--blog:END-->
+<!--Blog:START-->
+<!--Blog:END-->
 
 
 ---
