@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "Blog Posts"
+          comment_tag_name: "Blog"
           feed_list: "https://medium.com/me/stories/public"
