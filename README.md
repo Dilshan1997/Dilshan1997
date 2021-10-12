@@ -48,6 +48,9 @@
 ---
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing  Essentials](https://t-dilshanmperera.medium.com/cloud-computing-essentials-40e8e6b659d3?source=rss-a6e7f3ee4ad0------2)
+- [Edge networking](https://t-dilshanmperera.medium.com/edge-networking-be1aee54c162?source=rss-a6e7f3ee4ad0------2)
+- [What are network protocols?](https://t-dilshanmperera.medium.com/what-are-network-protocols-c387998ca1df?source=rss-a6e7f3ee4ad0------2)
 <!-- BLOG-POST-LIST:END -->
 
 
