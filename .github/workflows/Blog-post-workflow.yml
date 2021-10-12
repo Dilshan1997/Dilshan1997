@@ -10,9 +10,7 @@ jobs:
     name: Update this repo's README with latest Blogs from Medium
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "Blog"
           feed_list: "	https://medium.com/feed/@t-dilshanmperera"
