@@ -56,11 +56,11 @@
 ---
 ### 💫 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dilshan Madhuranga for Error in returning dictionary items as string? &lpar;python&rpar;](https://stackoverflow.com/questions/70295196/error-in-returning-dictionary-items-as-string-python/70295645#70295645)
 - [Answer by Dilshan Madhuranga for Visual studio code terminal, how to run a command with administrator rights?](https://stackoverflow.com/questions/37700536/visual-studio-code-terminal-how-to-run-a-command-with-administrator-rights/70276560#70276560)
 - [how to assign the variable for python tkinter entry?](https://stackoverflow.com/questions/69662872/how-to-assign-the-variable-for-python-tkinter-entry)
 - [Answer by Dilshan Madhuranga for Ussing two classes instances](https://stackoverflow.com/questions/69476449/ussing-two-classes-instances/69478350#69478350)
 - [I want to get updated .pkl file data and using tkinter to display that live updates](https://stackoverflow.com/questions/69424107/i-want-to-get-updated-pkl-file-data-and-using-tkinter-to-display-that-live-upda)
-- [Answer by Dilshan Madhuranga for How do I concatenate two lists in Python?](https://stackoverflow.com/questions/1720421/how-do-i-concatenate-two-lists-in-python/69423586#69423586)
 <!-- STACKOVERFLOW:END -->
 
 ---
