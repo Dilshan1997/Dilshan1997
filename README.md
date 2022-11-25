@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and play guitar / drums
 
+## I'm a 3rd year undergraduate of Sabaragamuwa University, follow by BSc(hons) Information Systems Degree pragram..
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
