@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and play guitar / drums
 
-## I'm a 3rd year undergraduate of Sabaragamuwa University..
+## Software Engineer
 
 ### Connect with me:
 
